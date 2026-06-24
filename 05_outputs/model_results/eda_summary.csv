@@ -1,0 +1,2 @@
+raw_rows,raw_columns,date_min,date_max,raw_unique_dates,raw_unique_skus,negative_qty_rows_removed,daily_sku_rows,eligible_sku_threshold_active_days,eligible_skus,modeling_rows,modeling_unique_dates,modeling_unique_skus
+48363,7,2021-01-01,2022-01-02,184,676,3,42436,120,180,29004,183,180

@@ -1,0 +1,7 @@
+{
+    "best_model_name": "LightGBM",
+    "target": "qty_log",
+    "trained_on_log_target": true,
+    "split_date": "2021-10-26T00:00:00.000000",
+    "number_of_features": 29
+}

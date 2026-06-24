@@ -1,0 +1,4 @@
+model,dataset,WAPE,WAPE_percent
+Old_LightGBM,old_test,0.455376,45.5376
+Improvement_Attempt_1_Feature_V2,test,0.514616,51.461593
+Final_LightGBM_V1_Tuned_1,test,0.4529717777145094,45.29717777145094

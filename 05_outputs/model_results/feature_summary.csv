@@ -1,0 +1,2 @@
+feature_rows,feature_columns,unique_skus,date_min,date_max,lag_features,rolling_features,sku_history_features
+26484,36,180,2021-01-29,2022-01-02,5,12,3

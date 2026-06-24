@@ -1,0 +1,23 @@
+{
+    "model_name": "Final_LightGBM_V1_Tuned_1",
+    "base_model": "LightGBM",
+    "target_type": "log",
+    "trained_on_train_validation": true,
+    "feature_set": "sales_features_v1",
+    "train_end_date": "2021-08-19T00:00:00.000000",
+    "validation_end_date": "2021-10-26T00:00:00.000000",
+    "number_of_features": 29,
+    "test_wape": 0.4529717777145094,
+    "test_wape_percent": 45.29717777145094,
+    "best_params": {
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "num_leaves": 31,
+        "max_depth": -1,
+        "min_child_samples": 20,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "reg_alpha": 0,
+        "reg_lambda": 0
+    }
+}

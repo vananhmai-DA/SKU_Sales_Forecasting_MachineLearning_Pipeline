@@ -1,0 +1,2 @@
+final_model,target_type,test_wape_percent,top_1_feature,top_2_feature,top_3_feature,shap_sample_size,business_interpretation
+Final_LightGBM_V1_Tuned_1,log,45.29717777145094,qty_rolling_mean_7,qty_rolling_mean_14,day_of_week,1000,"The model mainly relies on historical SKU demand patterns, such as recent lag values, rolling averages, and SKU-level historical statistics, to forecast future quantity."
