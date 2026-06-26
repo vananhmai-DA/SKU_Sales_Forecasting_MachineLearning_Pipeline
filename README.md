@@ -186,6 +186,7 @@ This chart compares the actual and predicted total sales quantity during the tes
 ![Actual vs Predicted SKU](05_outputs/figures/actual_vs_predicted_sku_089A0E.png)
 
 This chart compares actual and predicted sales quantity for one SKU in the test period. It helps illustrate how closely the final model follows the SKU-level demand pattern over time.
+
 ---
 
 ## 8. Explainability with SHAP
